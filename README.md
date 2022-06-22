@@ -11,5 +11,17 @@
     <a href='https://www.linkedin.com/in/nicolas-bieberbach-65bb41237/'>LinkedIn Access</a>
     <p>Hello, welcome to my GitHub profile!! I started in programming this year, but soon i'll be uploading some of my personal projects so you guys can help me complete and improve them. Thanks for visiting... See you later!
     </p>
+    <table>
+        <tr>
+            <th>Python</th>
+            <th>HTML</th>
+            <th>CSS</th>
+        </tr>
+        <tr>
+            <td>5 Projects</td>
+            <td>3 Projects</td>
+            <td>3 Projects</td>
+        </tr>
+    </table>
 </body>
 </html>
