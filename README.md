@@ -3,7 +3,7 @@
 <p>Hello, welcome to my GitHub profile!! I started in programming this year, but soon i'll be uploading some of my personal projects so you guys can help me complete and improve them. Thanks for visiting... See you later!</p>
 <div align="center">
   <a href="https://github.com/Nicolas-Bieberbach">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Bieberbach&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Bieberbach&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
 </div>
 <div style="display: inline_block"><br>
