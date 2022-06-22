@@ -13,9 +13,9 @@
     </p>
     <table>
         <tr>
-            <th>Python</th>
-            <th>HTML</th>
-            <th>CSS</th>
+            <th background-color='#a3b547'>Python</th>
+            <th background-color='#a3b547'>HTML</th>
+            <th background-color='#a3b547'>CSS</th>
         </tr>
         <tr>
             <td>5 Projects</td>
