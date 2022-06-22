@@ -6,17 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <style type="text/css">
-        #name_title{
-            font-size:3rem;
-            color: #333;
-            text-align: center;
-        }
-        #link:hover{
-            color: red;
-        }
     </style>
-    <h1 id='name_title'>Nicolas Bieberbach Candido</h1>
+    <h1 style='color:red' id='name_title'>Nicolas Bieberbach Candido</h1>
     <h3 id='desc_title'>Python | HTML | CSS</h3>
     <a id='link' href='https://www.linkedin.com/in/nicolas-bieberbach-65bb41237/'>LinkedIn Access</a>
     <p>Hello, welcome to my GitHub profile!!</p>
