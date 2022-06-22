@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Nicolas Bieberbach Candido</h1>
-    <h3 color="#ff1100">Python | HTML | CSS</h3>
+    <h3 font-color="#ff1100">Python | HTML | CSS</h3>
     <a href='https://www.linkedin.com/in/nicolas-bieberbach-65bb41237/'>LinkedIn Access</a>
     <p>Hello, welcome to my GitHub profile!!</p>
 </body>
