@@ -1,43 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/git.css">
-</head>
-<body>
-    <h1>Nicolas Bieberbach Candido</h1>
-    <h3>Python | HTML | CSS</h3>
-    <a href='https://www.linkedin.com/in/nicolas-bieberbach-65bb41237/' title="Nicolas Bieberbach LinkedIn">LinkedIn Access</a>
-    <p>Hello, welcome to my GitHub profile!! I started in programming this year, but soon i'll be uploading some of my personal projects so you guys can help me complete and improve them. Thanks for visiting... See you later!
-    </p>
-    <table>
-        <tr>
-            <th>Python</th>
-            <th>HTML</th>
-            <th>CSS</th>
-        </tr>
-        <tr>
-            <td>Calculator Project</td>
-            <td>Portfolio WebSite</td>
-            <td>Portfolio WebSite</td>
-        </tr>
-        <tr>
-            <td>Distributor Project</td>
-            <td>Photography WebSite</td>
-            <td>Photography WebSite</td>
-        </tr>
-        <tr>
-            <td>Chess Game Project</td>
-            <td>Bakery WebSite</td>
-            <td>Bakery WebSite</td>
-        </tr>
-        <tr>
-            <td>Django Project</td>
-            <td>No more projects</td>
-            <td>No more projects</td>
-        </tr>
-    </table>
-</body>
-</html>
+# **Nicolas Bieberbach Candido**
+### **Python | HTML | CSS**
+<p>Hello, welcome to my GitHub profile!! I started in programming this year, but soon i'll be uploading some of my personal projects so you guys can help me complete and improve them. Thanks for visiting... See you later!</p>
+<div align="center">
+  <a href="https://github.com/Nicolas-Bieberbach">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Bieberbach&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Nicolas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Nicolas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nicolas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/nicolasbieberbach/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:nicolasbieberbach.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nicolas-bieberbach-65bb41237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
