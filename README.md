@@ -1,4 +1,4 @@
-# **Dev.Jr. Nicolas B Candido**
+# ** Nicolas B Candido**
 ### **Python | HTML | CSS**
 <p>Hello, welcome to my GitHub profile!! I started in programming 💻💻 this year, but soon i'll be uploading some of my personal projects so you guys can help me complete and improve them. Thanks for visiting... See you later! 👋👋👊</p>
 <div align="center">
